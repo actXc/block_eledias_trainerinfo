@@ -31,5 +31,5 @@ $string['display_picture'] = 'Foto anzeigen';
 $string['eledia_trainerinfo:addinstance'] = 'Refernten Block hinzufügen';
 $string['eledia_trainerinfo_settings'] = 'Sichtbare Profileinstellungen';
 $string['mailstring'] = 'Kontakt per E-Mail';
-$string['pluginname'] = 'Referenten dieses Kurses';
+$string['pluginname'] = 'Organisation';
 $string['viewablefields'] = 'Sichtbare Felder';
